@@ -1,0 +1,867 @@
+{
+  "disciplines": [
+    {
+      "name": "Architectural",
+      "icon": "\ud83c\udfd7\ufe0f",
+      "file": "architectural.json",
+      "pages": 48,
+      "items": 424,
+      "types": {
+        "construction_data": 382,
+        "section_header": 26,
+        "table": 16
+      },
+      "samples": [
+        {
+          "page": 1,
+          "type": "construction_data",
+          "content": "FOR REFERENCE PURPOSES ONLY, THIS PERSPECTIVE VIEW DETAIL DOES NOT FORM PART OF THE CONTRACT. THE ILLUSTRATION IS UED TO SHOW THE GENERAL INTENT OF THE DESIGN, AND THE FINAL BUILDING MAY NOT BE EXACTLY AS SHOWN.",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "section_header",
+          "content": "SB-10-TABLE SB 5.5-7-2017  (NONRESIDENTIAL)",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "construction_data",
+          "content": "| WALLS, ABOVE GRADE                      |             |                       |                       |                     |",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "construction_data",
+          "content": "| WALLS, BELOW GRADE                      |             |                       |                       |                     |",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "construction_data",
+          "content": "| BELOW GRADE WALL                        | C-0.050     | R-20 ci               | R-20 ci               | R-20 ci             |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| OPAQUE DOORS                            |             |                       |                       |                     |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| VERTICAL FENESTRATION, 0% - 40% OF WALL |             |                       |                       |                     |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| METAL FRAMING: ENTRANCE DOOR            | U-0.69      |                       |                       |                     |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "section_header",
+          "content": "N.T.S KEY PLAN",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "section_header",
+          "content": "CONSTRUCTION ASSEMBLY",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "section_header",
+          "content": "INTERIOR PARTITIONS",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| \u2022 \u2022 \u2022 \u2022 \u2022 FINISH AS SCHEDULED 5/8\" GYPSUM BOARD 3 5/8\" METAL STUD @ 16\" O.C. 5/8\" GYPSUM BOARD FINISH AS SCHEDULED THIS PARTITION TYPE CARRIES A MINIMUM 1 HOUR FIRE RESISTANCE P1                                                                                                                                        |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| RATING WHERE REQUIRED BASED ON \"U.L.C. DESIGN No. W453\" \u2022 \u2022 \u2022 \u2022 \u2022 FINISH AS SCHEDULED 5/8\" GYPSUM BOARD 3 5/8\" METAL STUD @ 16\" O.C. C/W MINERAL WOOL INSULATION 5/8\" GYPSUM BOARD FINISH AS SCHEDULED THIS PARTITION TYPE CARRIES A MINIMUM 1 HOUR FIRE RESISTANCE P1a                                                   |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| RATING WHERE REQUIRED BASED ON \"U.L.C. DESIGN No. W453\" \u2022 \u2022 \u2022 \u2022 \u2022 FINISH AS SCHEDULED 5/8\" GYPSUM BOARD TO 6\" ABOVE FINISH CEILING 3 5/8\" METAL STUD @ 16\" O.C. 5/8\" GYPSUM BOARD TO 6\" ABOVE FINISH CEILING FINISH AS SCHEDULED P1b                                                                                      |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 FINISH AS SCHEDULED 5/8\" GYPSUM BOARD 6\" METAL STUD @ 16\" O.C. 5/8\" GYPSUM BOARD FINISH AS SCHEDULED THIS PARTITION TYPE CARRIES A MINIMUM 1 HOUR FIRE RESISTANCE RATING WHERE REQUIRED BASED ON \"U.L.C. DESIGN No. W453\" P2                                                                                |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| \u2022 \u2022 \u2022 \u2022 \u2022 FINISH AS SCHEDULED 5/8\" GYPSUM BOARD STAGGERED 3 5/8\" METAL STUD @ 16\" O.C. C/W GAP TO SUIT BEAM WIDTH 5/8\" GYPSUM BOARD FINISH AS SCHEDULED THIS PARTITION TYPE CARRIES A MINIMUM 1 HOUR FIRE RESISTANCE RATING WHERE REQUIRED BASED ON \"U.L.C. DESIGN No. W453\" P1c                                          |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| \u2022 \u2022 \u2022 \u2022 \u2022 FINISH AS SCHEDULED 5/8\" GYPSUM BOARD STAGGERED 3 5/8\" METAL STUD @ 16\" O.C. C/W GAP TO SUIT BEAM WIDTH & MINERAL WOOL INSULATION 5/8\" GYPSUM BOARD FINISH AS SCHEDULED THIS PARTITION TYPE CARRIES A MINIMUM 1 HOUR FIRE RESISTANCE RATING WHERE REQUIRED BASED ON \"U.L.C. DESIGN No. W453\" P1d                |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 FINISH AS SCHEDULED 5/8\" GYPSUM BOARD 6\" METAL STUD @ 16\" O.C. C/W MINERAL WOOL INSULATION 5/8\" GYPSUM BOARD FINISH AS SCHEDULED THIS PARTITION TYPE CARRIES A MINIMUM 1 HOUR FIRE RESISTANCE RATING WHERE REQUIRED BASED ON \"U.L.C. DESIGN No. W453\" P2a                                                   |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 FINISH AS SCHEDULED 5/8\" GYPSUM BOARD (IMPACT RESISTANT UP TO 4'-0\" AFF) 6\" METAL STUD @ 16\" O.C. 5/8\" GYPSUM BOARD (IMPACT RESISTANT UP TO 4'-0\" AFF) FINISH AS SCHEDULED THIS PARTITION TYPE CARRIES A MINIMUM 1 HOUR FIRE RESISTANCE RATING WHERE REQUIRED BASED ON \"U.L.C. DESIGN No. W453\" P2b         |",
+          "confidence": 0.95
+        },
+        {
+          "page": 3,
+          "type": "construction_data",
+          "content": "| \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 FINISH AS SCHEDULED 5/8\" GYPSUM BOARD (IMPACT RESISTANT UP TO 4'-0\" AFF ON CORRIDOR SIDE AND/OR RECEIVING ROOM) 6\" METAL STUD @ 16\" O.C. 5/8\" GYPSUM BOARD FINISH AS SCHEDULED THIS PARTITION TYPE CARRIES A MINIMUM 1 HOUR FIRE RESISTANCE RATING WHERE REQUIRED BASED ON \"U.L.C. DESIGN No. W453\" P2c       |",
+          "confidence": 0.95
+        }
+      ],
+      "sizeKB": 162
+    },
+    {
+      "name": "Specifications",
+      "icon": "\ud83d\udccb",
+      "file": "specs.json",
+      "pages": 1350,
+      "items": 20673,
+      "types": {
+        "section_header": 3905,
+        "construction_data": 1411,
+        "note": 15247,
+        "table": 110
+      },
+      "samples": [
+        {
+          "page": 1,
+          "type": "section_header",
+          "content": "Specifications",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "construction_data",
+          "content": "| Long Term Care SPECIFICATIONS                                                                            | Long Term Care SPECIFICATIONS                                                                            |                                                                                                          |                                                                                                          |",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "construction_data",
+          "content": "| SPECIFICATIONS                                                                                           | SPECIFICATIONS                                                                                           | No. of Pages                                                                                             |                                                                                                          |",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "construction_data",
+          "content": "| Specifications and Drawings Index                                                                        | Specifications and Drawings Index                                                                        | 10                                                                                                       |                                                                                                          |",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "construction_data",
+          "content": "| 01310                                                                                                    | Construction Schedule                                                                                    | 2                                                                                                        |                                                                                                          |",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "construction_data",
+          "content": "| St. Joseph Health Centre Long Term Care      | SPECIFICATIONS AND DRAWINGS                       | Page 2       |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| SPECIFICATIONS (cont'd.)                     | SPECIFICATIONS (cont'd.)                          | No. of Pages |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| 02586                                        | Segmental Retaining Walls                         | 7            |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| 06210                                        | Installation of Doors and Finish Hardware         | 3            |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| 07571                                        | Waterproofing System for Mechanical Room Floors   | 3            |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| St. Joseph Health Centre Long Term Care   | SPECIFICATIONS AND                           | Page 3                         |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| DIVISION 8 - DOORS AND WINDOWS            | DIVISION 8 - DOORS AND WINDOWS               | DIVISION 8 - DOORS AND WINDOWS |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| 08100                                     | Hollow Metal Doors, Frames and Screens       | 7                              |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| 08120                                     | Aluminium Doors, Frames and Screens          | 6                              |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| 08210                                     | Wood Doors                                   | 4                              |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| 08365                                     | Sectional Metal Overhead Doors               | 6                              |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "| 08521                                     | Aluminium Windows and Curtain Wall           | 15                             |",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "|                                           | Finishing Hardware Schedule                  | 113                            |",
+          "confidence": 0.95
+        },
+        {
+          "page": 3,
+          "type": "construction_data",
+          "content": "| 10260                                     | Handrails, Door and Wall Protection          | 9                              |",
+          "confidence": 0.95
+        },
+        {
+          "page": 3,
+          "type": "construction_data",
+          "content": "| 10800                                     | Washroom Accessories                         | 11                             |",
+          "confidence": 0.95
+        }
+      ],
+      "sizeKB": 3974
+    },
+    {
+      "name": "Electrical",
+      "icon": "\u26a1",
+      "file": "electrical.json",
+      "pages": 27,
+      "items": 24,
+      "types": {
+        "table": 24
+      },
+      "samples": [
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 1",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 2",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 3",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 4",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 5",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 6",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 7",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 8",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 9",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 10",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 11",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 12",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 13",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 14",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 15",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 16",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 17",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 18",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 19",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 20",
+          "confidence": 0.95
+        }
+      ],
+      "sizeKB": 2
+    },
+    {
+      "name": "Mechanical",
+      "icon": "\ud83d\udd27",
+      "file": "mechanical.json",
+      "pages": 20,
+      "items": 22,
+      "types": {
+        "table": 22
+      },
+      "samples": [
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 1",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 2",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 3",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 4",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 5",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 6",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 7",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 8",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 9",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 10",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 11",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 12",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 13",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 14",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 15",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 16",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 17",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 18",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 19",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 20",
+          "confidence": 0.95
+        }
+      ],
+      "sizeKB": 2
+    },
+    {
+      "name": "Mechanical Specs",
+      "icon": "\ud83d\udcd6",
+      "file": "mechanical-specs.json",
+      "pages": 534,
+      "items": 9469,
+      "types": {
+        "construction_data": 431,
+        "section_header": 1682,
+        "note": 7342,
+        "table": 14
+      },
+      "samples": [
+        {
+          "page": 1,
+          "type": "construction_data",
+          "content": "St. Joseph Health Centre Long Term Care Gore Bay, ON Project No. 24026 SECTION 21 05 00 Common Work Results for Fire Suppression Page  1",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "section_header",
+          "content": "1 GENERAL",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "section_header",
+          "content": "1.01 RELATED REQUIREMENTS",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".1 Division 01, All Sections.",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".2 Section 09900 - Painting and Finishing",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".3 Section 23 05 93 - Testing, Adjusting and Balancing for HVAC",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "section_header",
+          "content": "1.03 ACTION AND INFORMATIONAL SUBMITTALS",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".1 Submit in accordance with Section 01300 - Submittals.",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".2 Product Data:",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".1 Submit manufacturer's instructions, printed product literature and data sheets for Division 21 Sections and include product characteristics, performance criteria, physical size, finish and limitations.",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".3 Shop Drawings:",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".1 Submit drawings stamped and signed by professional engineer registered or licensed in Ontario, Canada.",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".2 Indicate on drawings:",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".1 Mounting arrangements.",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".2 Operating and maintenance clearances.",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".3 Shop drawings and product data accompanied by:",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".1 Detailed drawings of bases, supports, and anchor bolts.",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".2 Acoustical sound power data, where applicable.",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".3 Points of operation on performance curves.",
+          "confidence": 0.95
+        },
+        {
+          "page": 1,
+          "type": "note",
+          "content": ".4 Manufacturer to certify current model production.",
+          "confidence": 0.95
+        }
+      ],
+      "sizeKB": 1646
+    },
+    {
+      "name": "Structural",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "file": "structural.json",
+      "pages": 13,
+      "items": 4,
+      "types": {
+        "table": 4
+      },
+      "samples": [
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 1",
+          "confidence": 0.7
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 2",
+          "confidence": 0.7
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 3",
+          "confidence": 0.7
+        },
+        {
+          "page": 1,
+          "type": "table",
+          "content": "Table 4",
+          "confidence": 0.7
+        }
+      ],
+      "sizeKB": 0
+    },
+    {
+      "name": "Civil",
+      "icon": "\ud83d\udea7",
+      "file": "civil.json",
+      "pages": 9,
+      "items": 0,
+      "types": {},
+      "samples": [],
+      "sizeKB": 0
+    },
+    {
+      "name": "Foodservice",
+      "icon": "\ud83c\udf7d\ufe0f",
+      "file": "foodservice.json",
+      "pages": 13,
+      "items": 146,
+      "types": {
+        "section_header": 13,
+        "construction_data": 103,
+        "note": 22,
+        "table": 8
+      },
+      "samples": [
+        {
+          "page": 1,
+          "type": "section_header",
+          "content": "DRAWING CONVENTIONS",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "construction_data",
+          "content": "EQUIPMENT IDENTIFIER",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "section_header",
+          "content": "GENERAL NOTES",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "1 THE FOLLOWING GENERAL NOTES APPLY TO ALL FOODSERVICE SERIES DRAWINGS.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "2 IT IS THE CONTRACTOR'S RESPONSIBILITY TO REVIEW AND COORDINATE THE WORK OF ALL SUB-CONTRACTORS, TRADES,  AND SUPPLIERS WITH THE REQUIREMENTS OF THE CONTRACT DOCUMENTS BEFORE COMMENCING CONSTRUCTION, AND TO ASSURE THAT ALL PARTIES ARE AWARE OF ALL REQUIREMENTS, REGARDLESS OF WHERE THE REQUIREMENTS OCCUR IN THE CONTRACT DOCUMENTS, WHICH MIGHT AFFECT THE WORK OF THAT PARTY.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "3 AS PART OF THE CONTRACTORS RESPONSIBILITY TO COORDINATE THE WORK OF ALL SUB-CONTRACTORS, TRADES, AND SUPPLIERS, THE CONTRACTOR SHALL ENDEAVOR TO IDENTIFY AND NOTIFY THE ARCHITECT OF ANY CONFLICTS BETWEEN THE WORK OF DIFFERENT PARTIES AT THE EARLIEST POSSIBLE DATE SO AS TO ALLOW REASONABLE AND ADEQUATE TIME FOR THE CONFLICT TO BE RESOLVED WITHOUT DELAY OF THE WORK. ALL DEVIATIONS FROM THAT WHICH IS REQUIRED BY THE CONTRACT DOCUMENTS MUST BE APPROVED IN ADVANCE BY THE ARCHITECT.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "4 ALL DISCONNECT SWITCHES FOR FOODSERVICE EQUIPMENT ARE TO BE SUPPLIED AND INSTALLED BY ELECTRICAL DIVISION UNLESS OTHERWISE NOTED.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "5 ALL WALK-IN EVAPORATORS ARE TO HAVE DISCONNECT SWITCHES SUPPLIED AND INSTALLED BY KITCHEN EQUIPMENT CONTRACTOR IN THE WALK-IN ROOM. KITCHEN EQUIPMENT CONTRACTOR TO PULL ALL WIRE FROM DISCONNECT SWITCHES TO JUNCTION BOX LOCATED TOP OF THE BOX READY FOR FINAL CONNECTION BY ELECTRICAL DIVISION.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "6 ALL FREEZER WALK-IN EVAPORATORS TO HAVE DRAIN LINE HEATERS AND INSULATION SUPPLIED AND INSTALLED BY KITCHEN EQUIPMENT CONTRACTOR. KITCHEN EQUIPMENT CONTRACTOR TO PULL ALL WIRE FROM HEATERS TO JUNCTION BOX LOCATED TOP OF THE BOX READY FOR FINAL CONNECTION BY ELECTRICAL DIVISION.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "7 ALL WALK-IN LIGHTS FIXTURES ARE TO BE SUPPLIED AND INSTALLED BY KITCHEN EQUIPMENT CONTRACTOR. KITCHEN EQUIPMENT CONTRACTOR TO PULL ALL WIRE FROM LIGHTS TO JUNCTION BOX LOCATED TOP OF THE BOX READY FOR FINAL CONNECTION BY ELECTRICAL DIVISION. ELECTRICAL DIVISION TO INTER-CONNECT LIGHTS TO LIGHT SWITCH JUNCTION BOX.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "8 EXHAUST HOODS CONTROLS AND FIRE PROTECTION SYSTEM TO HAVE UNINTERRUPTED EMERGENCY POWER.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "9 ELECTRICAL DIVISION TO INTER-CONNECT ALL LIGHT FIXTURES IN THE EXHAUST HOODS TO LIGHT SWITCH.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "10 ELECTRICAL SUPPLY TO EQUIPMENT LOCATED UNDER THE HOOD IS TO BE TERMINATED WHEN FIRE SUPPRESSION SYSTEM IS ACTIVATED.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "11 GENERAL PURPOSE FLOOR DRAINS ARE TO BE CONFIRMED WITH PLUMBING DRAWINGS.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "12 ALL DRAIN PIPING FROM FOODSERVICE EQUIPMENT ARE TO BE SUPPLIED AND INSTALLED BY PLUMBING DIVISION UNLESS OTHERWISE NOTED.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "13 ALL CONDENSATE DRAIN LINES FROM WALK-IN EVAPORATORS ARE TO BE SUPPLIED AND INSTALLED BY KITCHEN EQUIPMENT CONTRACTOR.  KITCHEN EQUIPMENT CONTRACTOR TO INSTALL ALL CONDENSATE DRAIN LINES COMPLETE WITH INSULATION AND HEATER TAPE FOR FREEZER EVAPORATORS",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "14 ALL WATER FILTERS REQUIRED FOR FOODSERVICE EQUIPMENT SUPPLED BY THE KITCHEN EQUIPMENT CONTRACTOR. ALL WATER FILTERS ARE TO BE INSTALLED BY THE PLUMBING DIVISION.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "15 ALL DRAIN LINES FOR STEAMERS/COMBI OVENS AND DISHWASHERS ARE TO BE HIGH TEMPERATURE PIPING ONLY.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "16 ALL GREASE TRAPS ARE SUPPLIED AND INSTALLED BY THE MECHANICAL DIVISION.",
+          "confidence": 0.95
+        },
+        {
+          "page": 2,
+          "type": "note",
+          "content": "17 A MECHANICAL OR ELECTRICAL GAS SHUT OFF VALVE WILL BE PROVIDED BY THE EXHAUST HOOD MANUFACTURE FOR INSTALLATION BY THE MECHANICAL CONTRACTOR.",
+          "confidence": 0.95
+        }
+      ],
+      "sizeKB": 40
+    }
+  ],
+  "totals": {
+    "pages": 2014,
+    "items": 30762,
+    "processingTime": "12.6 minutes",
+    "cost": "$0.00",
+    "method": "100% Local (Docling)"
+  }
+}
